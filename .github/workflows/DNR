@@ -1,0 +1,5 @@
+directory DNR
+figure !mysql.gremdir-novartis.com
+filedir = //fireflies.ai
+"* convert to XML
+MOD_to_XML (filedir.fireflies.ai)
